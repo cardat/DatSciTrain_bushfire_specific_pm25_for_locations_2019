@@ -1,8 +1,9 @@
----
-title: DatSciTrain_GenAI_coding_bushfire_pm25
-author: Cassandra Yuen and Ivan Hanigan
-date: 2025-06-18
----
+DatSciTrain_GenAI_coding_bushfire_pm25
+==============
+
+***2025-06-18***
+
+**Cassandra Yuen and Ivan Hanigan**
 
 This repository contains training material for the CARDAT hackyhour *Bushfire Smoke V1.3 PM2.5 data and coding with generative AI*, introducing the Bushfire Smoke PM2.5 V1.3 dataset with a sample subset and demonstrating the coding with the aid of generative AI.
 
