@@ -4,14 +4,14 @@ library(terra)
 # INPUTS ------------------------------------------------------------------
 
 # Study location coordinates
-infile.locations <- "data/location_crds.csv"
+infile.locations <- "data_provided/location_crds.csv"
 
 # predicted PM2.5 and STL NetCDF
-infile.pm25 <- "data/bushfiresmoke_subset_v1_3_2019_compressed_20231130_7.nc"
+infile.pm25 <- "data_provided/bushfiresmoke_subset_v1_3_2019_compressed_20231130_7.nc"
 
 # statistical thresholds for flags (95th percentile; SD of trimmed remainder component)
-infile.p95 <- "data/bushfiresmoke_v1_3_2001_2020_pm25_pred_p95.nc"
-infile.sd_rem <- "data/bushfiresmoke_v1_3_2001_2020_remainder_trimmed_stdev.nc"
+infile.p95 <- "data_provided/bushfiresmoke_v1_3_2001_2020_pm25_pred_p95.nc"
+infile.sd_rem <- "data_provided/bushfiresmoke_v1_3_2001_2020_remainder_trimmed_stdev.nc"
 
 
 
@@ -22,7 +22,7 @@ locations <- read.csv(infile.locations)
 locations
 
 # Choose a location to display time-series data
-select_loc <- "Sydney"
+select_loc <- "Hobart"
 
 # Format as vector data with terra package
 crds <- locations[locations$name == select_loc, ]

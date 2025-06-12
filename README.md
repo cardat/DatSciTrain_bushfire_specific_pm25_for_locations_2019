@@ -1,7 +1,5 @@
-DatSciTrain_GenAI_coding_bushfire_pm25
+DatSciTrain_bushfire_specific_pm25_for_locations_2019
 ==============
-
-***2025-06-18***
 
 **Cassandra Yuen and Ivan Hanigan**
 
@@ -19,12 +17,12 @@ Download this repository by clicking the green **<> Code** button at the top of 
 
 (If you are familiar with Git, you can clone this repository instead.)
 
-Bushfire Smoke PM2.5 data will be made available to hackyhour participants. Please add these files to the `data/` directory.
+Bushfire Smoke PM2.5 data will be made available to hackyhour participants. Please add these files to the `data_provided/` directory.
 
 
 ### Running the code
 
-1. Open the `DatSciTrain_GenAI_coding_bushfire_pm25.Rproj` project file in RStudio, then open `main.R`.
+1. Open the `DatSciTrain_bushfire_specific_pm25_for_locations_2019.Rproj` project file in RStudio, then open `main.R`.
 2. If prompted by RStudio, install the required R packages. Alternatively you can install them by running `install.packages("terra")` in the RStudio console.
 3. You can step through the code line-by-line with the `Ctrl + Enter` shortcut.
 
