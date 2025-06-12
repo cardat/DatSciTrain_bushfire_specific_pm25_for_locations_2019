@@ -13,7 +13,7 @@ You will need to install and download R and RStudio to run the code. Instruction
 
 ### Download the code and associated data
 
-Download this repository by clicking the green **<> Code** button at the top of [this GitHub repository](https://github.com/cardat/DatSciTrain_GenAI_coding_bushfire_pm25) file listing, then select **Download ZIP**. Extract the contents of the downloaded ZIP to your desired location.
+Download this repository by clicking the green **<> Code** button at the top of [this GitHub repository](https://github.com/cardat/DatSciTrain_bushfire_specific_pm25_for_locations_2019) file listing, then select **Download ZIP**. Extract the contents of the downloaded ZIP to your desired location.
 
 (If you are familiar with Git, you can clone this repository instead.)
 
