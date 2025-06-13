@@ -19,6 +19,12 @@ Download this repository by clicking the green **\<\> Code** button at the top o
 
 Bushfire Smoke PM2.5 data will be made available to hackyhour participants via Cloud CARDAT. Please add these files to the `data_provided/` directory alongside the `location_crds.csv` file.
 
+### Set up access to a generative AI
+
+For this workshop, code development with generative AI will be demonstrated using Claude. To access Claude, go to the [website](https://claude.ai/) and create an account - a Personal, Free tier account is sufficient. 
+
+Also check if you have institutional access to a generative AI (e.g. Microsoft Copilot). You may use this to compare and contrast responses from different generative AIs.
+
 ### Running the code
 
 1.  Open the `DatSciTrain_bushfire_specific_pm25_for_locations_2019.Rproj` project file in RStudio, then open `main.R`.
