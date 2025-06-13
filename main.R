@@ -76,7 +76,7 @@ loc.pm25 <- lapply(vars_toget, function(i){
 })
 loc.pm25 <- Reduce(function(x,y) merge(x, y, by = "date"), loc.pm25)
 
-## statistical thresholds
+## statistical thresholds ####
 # 95pth percentile (PM2.5 2001-2020)
 loc.p95 <- terra::extract(r.p95, terra::project(v_loc, r.p95), ID = F)[[1]]
 
