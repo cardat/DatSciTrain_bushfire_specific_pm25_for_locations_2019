@@ -35,6 +35,6 @@ Also check if you have institutional access to a generative AI (e.g. Microsoft C
 
 **PM2.5 estimates, STL decomposition and selected flags** subset from [Bushfire Smoke PM2.5 V1.3 dataset](https://doi.org/10.17605/OSF.IO/WQK4T). The development and use of this dataset is detailed in the paper:
 
-> Borchers-Arriagada, N., Morgan, G.G., Buskirk, J.V., Gopi, K., Yuen, C., Johnston, F.H., Guo, Y., Cope, M. and Hanigan, I.C. (2024) ‘Daily PM2.5 and Seasonal-Trend Decomposition to Identify Extreme Air Pollution Events from 2001 to 2020 for Continental Australia Using a Random Forest Model’, *Atmosphere*, *15*(1341). Available at: <https://doi.org/10.3390/atmos15111341>.
+> Borchers-Arriagada, N., Morgan, G.G., Van Buskirk, J., Gopi, K., Yuen, C., Johnston, F.H., Guo, Y., Cope, M. and Hanigan, I.C. (2024) ‘Daily PM2.5 and Seasonal-Trend Decomposition to Identify Extreme Air Pollution Events from 2001 to 2020 for Continental Australia Using a Random Forest Model’, *Atmosphere*, *15*(1341). Available at: <https://doi.org/10.3390/atmos15111341>.
 
 **Study location coordinates** derived from [ABS Urban Centres and Localities, 2016](https://www.abs.gov.au/AUSSTATS/abs@.nsf/productsbyCatalogue/7B4A59ACBBB57DC9CA257A980013D3E9?OpenDocument)
