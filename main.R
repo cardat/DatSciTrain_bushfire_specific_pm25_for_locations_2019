@@ -139,7 +139,7 @@ legend(
   legend = c(
     expression("daily PM"[2.5]),
     "seasonal + trend",
-    expression("95th percentile PM"[2.5]),
+    "2SD remainder + seasonal + trend",
     "probable smoke (flag_2SD_remainder)"
   ),
   lty = c(1, 2, 1, NA),
