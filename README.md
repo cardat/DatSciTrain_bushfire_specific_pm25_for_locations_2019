@@ -17,7 +17,7 @@ Download this repository by clicking the green **\<\> Code** button at the top o
 
 (If you are familiar with Git, you can clone this repository instead.)
 
-Bushfire Smoke PM2.5 data will be made available to hackyhour participants via Cloud CARDAT. Please add these files to the `data_provided/` directory alongside the `location_crds.csv` file.
+Bushfire Smoke PM~2.5~ data will be made available to hackyhour participants via Cloud CARDAT. Please add these files to the `data_provided/` directory alongside the `location_crds.csv` file. Note that **the Bushfire Smoke PM~2.5~ data are provided for training purposes only, and may not be on-shared or used for any other purpose*</span>** beyond this hackyhour.
 
 ### Installing required `R` packages
 
@@ -39,5 +39,7 @@ You can step through the code line-by-line in RStudio by clicking the "Run" butt
 **PM2.5 estimates, STL decomposition and selected flags** subset from [Bushfire Smoke PM2.5 V1.3 dataset](https://doi.org/10.17605/OSF.IO/WQK4T). The development and use of this dataset is detailed in the paper:
 
 > Borchers-Arriagada, N., Morgan, G.G., Van Buskirk, J., Gopi, K., Yuen, C., Johnston, F.H., Guo, Y., Cope, M. and Hanigan, I.C. (2024) ‘Daily PM2.5 and Seasonal-Trend Decomposition to Identify Extreme Air Pollution Events from 2001 to 2020 for Continental Australia Using a Random Forest Model’, *Atmosphere*, *15*(1341). Available at: <https://doi.org/10.3390/atmos15111341>.
+
+Access to this dataset may be requested via the [CARDAT](https://cardat.github.io/) access request form.
 
 **Study location coordinates** derived from [ABS Urban Centres and Localities, 2016](https://www.abs.gov.au/AUSSTATS/abs@.nsf/productsbyCatalogue/7B4A59ACBBB57DC9CA257A980013D3E9?OpenDocument)
