@@ -40,6 +40,6 @@ You can step through the code line-by-line in RStudio by clicking the "Run" butt
 
 > Borchers-Arriagada, N., Morgan, G.G., Van Buskirk, J., Gopi, K., Yuen, C., Johnston, F.H., Guo, Y., Cope, M. and Hanigan, I.C. (2024) ‘Daily PM2.5 and Seasonal-Trend Decomposition to Identify Extreme Air Pollution Events from 2001 to 2020 for Continental Australia Using a Random Forest Model’, *Atmosphere*, *15*(1341). Available at: <https://doi.org/10.3390/atmos15111341>.
 
-Access to this dataset may be requested via the [CARDAT](https://cardat.github.io/) access request form.
+Access to this dataset for research purposes may be requested via the [CARDAT](https://cardat.github.io/) access request form.
 
 **Study location coordinates** derived from [ABS Urban Centres and Localities, 2016](https://www.abs.gov.au/AUSSTATS/abs@.nsf/productsbyCatalogue/7B4A59ACBBB57DC9CA257A980013D3E9?OpenDocument)
